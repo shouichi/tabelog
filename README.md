@@ -5,8 +5,10 @@
 # 和食
 
 - [ ] 鮨 竹半 若槻 （【旧店名】鮨 竹半） - 恵比寿/寿司 [食べログ] http://tabelog.com/tokyo/A1303/A130302/13014345/
+- [ ] いせ源 本館 （いせげん） - 淡路町/あんこう [食べログ] http://tabelog.com/tokyo/A1310/A131002/13000338/
 - [ ] 雑司が谷 寛 （ぞうしがやかん） - 鬼子母神前/懐石・会席料理 [食べログ] http://tabelog.com/tokyo/A1305/A130502/13002875/
 - [ ] ポンチ軒 - 新御茶ノ水/とんかつ [食べログ] http://tabelog.com/tokyo/A1310/A131002/13141456/
+- [ ] 江知勝 （えちかつ） - 湯島/すき焼き [食べログ] http://tabelog.com/tokyo/A1311/A131101/13003520/
 - [ ] 大木屋 - 牛込神楽坂/もんじゃ焼き [食べログ] http://tabelog.com/tokyo/A1309/A130905/13115739/
 - [ ] くろぎ （【旧店名】湯島 一二一） - 湯島/懐石・会席料理 [食べログ] http://tabelog.com/tokyo/A1311/A131101/13094789/
 - [ ] かず味家 - 湯島/割烹・小料理 [食べログ] http://tabelog.com/tokyo/A1311/A131101/13146616/
@@ -29,6 +31,8 @@
 - [x] うどん山長 （うどんやまちょう） - 恵比寿/うどん [食べログ] http://tabelog.com/tokyo/A1303/A130302/13045327/
 - [x] 定食サトウ - 神泉/定食・食堂 [食べログ] http://tabelog.com/tokyo/A1303/A130301/13094042/
 - [x] 博多もつ鍋 蟻月 恵比寿 （ありづき） - 恵比寿/もつ鍋 [食べログ] http://tabelog.com/tokyo/A1303/A130302/13009308/
+- [x] 尾花 （おばな） - 南千住/うなぎ [食べログ] http://tabelog.com/tokyo/A1324/A132401/13003509/
+- [x] 阿づ満や - 市ヶ谷/うなぎ [食べログ] http://tabelog.com/tokyo/A1309/A130904/13043503/
 
 # 中華
 
@@ -37,6 +41,7 @@
 - [ ] 神田餃子屋 本店 （カンダギョウザヤ） - 神保町/餃子 [食べログ] http://tabelog.com/tokyo/A1310/A131003/13025041/
 - [x] 川菜館 （センサイカン） - 新御茶ノ水/四川料理 [食べログ] http://tabelog.com/tokyo/A1310/A131002/13026144/
 - [x] MASA’S KITCHEN47 （マサズキッチン） - 恵比寿/中華料理 [食べログ] http://tabelog.com/tokyo/A1303/A130302/13054526/
+- [x] 栄児 家庭料理 本郷店 （ロンアール カテイリョウリ） - 本郷三丁目/四川料理 [食べログ] http://tabelog.com/tokyo/A1310/A131004/13035863/
 - [x] 味覚 - 内幸町/中華料理 [食べログ] http://tabelog.com/tokyo/A1301/A130103/13130295/
 - [x] :heart_eyes: 中国料理 星ヶ岡 （ホシガオカ） - 溜池山王/中華料理 [食べログ] http://tabelog.com/tokyo/A1308/A130802/13002745/
 - [x] 中国飯店 市ヶ谷店 （チュウゴクハンテン） - 市ヶ谷/中華料理 [食べログ] http://tabelog.com/tokyo/A1309/A130904/13000553/
@@ -93,6 +98,7 @@
 
 # 肉
 
+- [ ] ジャンボはなれ - 本郷三丁目/焼肉 [食べログ] http://tabelog.com/tokyo/A1310/A131004/13160962/
 - [ ] 神楽坂　鉄板焼 中むら （なかむら） - 飯田橋/鉄板焼き [食べログ] http://tabelog.com/tokyo/A1309/A130905/13134663/
 - [ ] 東京ブッチャーズワイン＆グリル 神保町 - 神保町/ワインバー [食べログ] http://tabelog.com/tokyo/A1310/A131003/13137277/
 - [ ] 炭火焼肉なかはら - 市ヶ谷/焼肉 [食べログ] http://tabelog.com/tokyo/A1309/A130904/13175110/
@@ -101,6 +107,8 @@
 - [x] :heart_eyes: ジンギスカン らむすけ - 北千住/ジンギスカン [食べログ] http://tabelog.com/tokyo/A1324/A132402/13157605/
 - [x] :heart_eyes: ホルモン俵屋 - 湯島/ホルモン [食べログ] http://tabelog.com/tokyo/A1311/A131101/13094597/
 - [x] ハミングバーズヒル （Hummingbirds’hill） - 恵比寿/ハンバーガー [食べログ] http://tabelog.com/tokyo/A1303/A130302/13094475/
+- [x] 焼肉ジャンボ 本郷店 - 本郷三丁目/焼肉 [食べログ] http://tabelog.com/tokyo/A1310/A131004/13110601/
+- [x] 房家 本郷三丁目店 （ボウヤ） - 本郷三丁目/焼肉 [食べログ] http://tabelog.com/tokyo/A1310/A131004/13038755/
 - [x] :heart_eyes: 恵比寿焼肉　kintan （エビスヤキニクキンタン） - 恵比寿/焼肉 [食べログ] http://tabelog.com/tokyo/A1303/A130302/13157343/
 - [x] 森のブッチャーズ - 神保町/バル・バール [食べログ] http://tabelog.com/tokyo/A1310/A131003/13165724/
 
@@ -120,20 +128,25 @@
 - [x] つくしのこ （つくしの子） - 池尻大橋/居酒屋 [食べログ] http://tabelog.com/tokyo/A1317/A131705/13019231/
 - [x] 和酒バル KIRAZ （わしゅばる　きらず） - 目黒/日本酒 [食べログ] http://tabelog.com/tokyo/A1316/A131601/13112701/
 - [x] 青二才 （アオニサイ） - 神保町/ダイニングバー [食べログ] http://tabelog.com/tokyo/A1310/A131003/13181399/
+- [x] 神楽坂 椿々 - 飯田橋/日本酒 [食べログ] http://tabelog.com/tokyo/A1309/A130905/13050049/
 
 # ビール
 
 - [ ] BrewDog Roppongi （ブリュードッグ） - 六本木/ビアバー [食べログ] http://tabelog.com/tokyo/A1307/A130701/13165318/
 - [x] アントン ビー （Ant'n Bee） - 六本木/ビアバー [食べログ] http://tabelog.com/tokyo/A1307/A130701/13118677/
 - [x] :heart_eyes: クラフトビアマーケット 神保町店 （CRAFT BEER MARKET） - 神保町/ビアバー [食べログ] http://tabelog.com/tokyo/A1310/A131003/13137181/
+- [x] YOTSUYA BREWERY （ヨツヤ ブルワリー） - 四ツ谷/ビアホール・ビアレストラン [食べログ] http://tabelog.com/tokyo/A1309/A130902/13052280/
 - [x] :heart_eyes: ザ　ワールドエンド （The World End） - 上野/バー [食べログ] http://tabelog.com/tokyo/A1311/A131101/13142426/
 - [x] ビアパブ イシイ - 西日暮里/ビアバー [食べログ] http://tabelog.com/tokyo/A1311/A131105/13155609/
 - [x] :disappointed: Hedge8 （ヘッジエイト） - 根津/ダイニングバー [食べログ] http://tabelog.com/tokyo/A1311/A131106/13171966/
 - [x] Toranomon HOP （虎ノ門 ホップ） - 虎ノ門/ビアバー [食べログ] http://tabelog.com/tokyo/A1308/A130802/13169278/
+- [x] クラフトビアサーバーランド （CRAFT BEER SERVER LAND） - 神楽坂/ビアバー [食べログ] http://tabelog.com/tokyo/A1309/A130905/13160783/
+- [x] 地ビールダイニング神楽坂ラ・カシェット （La-cachette） - 飯田橋/ビアバー [食べログ] http://tabelog.com/tokyo/A1309/A130905/13032036/
 
 # ワイン
 
 - [x] ワインホール神田小西 - 小川町/ビストロ [食べログ] http://tabelog.com/tokyo/A1310/A131002/13131968/
+- [x] オブラ - 四ツ谷/スペイン料理 [食べログ] http://tabelog.com/tokyo/A1309/A130902/13125429/
 - [x] ヘイメル ミヤマス （Hemel ミヤマス） - 渋谷/ワインバー [食べログ] http://tabelog.com/tokyo/A1303/A130301/13129415/
 - [x] 関山米穀店 - 小川町/ワインバー [食べログ] http://tabelog.com/tokyo/A1310/A131002/13187131/
 
