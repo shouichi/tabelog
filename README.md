@@ -139,6 +139,7 @@
 - [x] 和酒バル KIRAZ （わしゅばる　きらず） - 目黒/日本酒 [食べログ] http://tabelog.com/tokyo/A1316/A131601/13112701/
 - [x] 青二才 （アオニサイ） - 神保町/ダイニングバー [食べログ] http://tabelog.com/tokyo/A1310/A131003/13181399/
 - [x] 神楽坂 椿々 - 飯田橋/日本酒 [食べログ] http://tabelog.com/tokyo/A1309/A130905/13050049/
+- [x] :heart_eyes: https://twitter.com/syo_dent
 
 # ビール
 
